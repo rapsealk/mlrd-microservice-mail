@@ -1,0 +1,23 @@
+{
+  "name": "mlrd-microservice-mail",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapsealk/mlrd-microservice-mail.git"
+  },
+  "author": "rapsealk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapsealk/mlrd-microservice-mail/issues"
+  },
+  "homepage": "https://github.com/rapsealk/mlrd-microservice-mail#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
